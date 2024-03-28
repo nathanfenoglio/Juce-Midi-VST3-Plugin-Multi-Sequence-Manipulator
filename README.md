@@ -1,0 +1,1 @@
+![alt_image](https://github.com/nathanfenoglio/Juce-Midi-VST3-Plugin-Multi-Sequence-Manipulator/blob/master/images/screenshot_1.jpg)
